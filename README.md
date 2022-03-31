@@ -12,4 +12,8 @@ The studied dataset contains weather information which are the features (Tempera
 
 Bikes rented for hours The goal of the company Seoul Bike is providing the city with a stable supply of rental bikes. It becomes a major concern to keep user satisfied. The crucial part is the prediction of bike count rents at each hour for a stable supply of rental bikes. We can suppose that this study could be reported to the company 'Seoul Bikes'. We think it could help them knowing if yes or not they have to supply bikes stations in the city, in order to keep a good satisfaction of the customers.
 
-Click Here to view Presentation in Pdf ()
+Click Here to view Presentation in Pdf (https://github.com/mmishra1092/Bike-Sharing-Demand-Prediction/blob/main/Bike_sharing_demand_presentation.pdf)
+
+# Summary
+
+This study shows that the rents of bikes are influenced by a lot of features. In this study, we understood that many koreans usually and mainly rent bikes during the week days, so we supposed that the main use is to go to school or work. There are also many conditions which contribute to the variation of number of rents like the the day of the week, the moment of the day and weather conditions. Weather conditions are also very important because there are more rents during spring and summer. And as we expected more people are set to rent bikes when the weather is favorable.
